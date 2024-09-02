@@ -2,7 +2,7 @@
 
 Floema is an interactive web experience project inspired by the work of Luis Bizarro, award wining developer. This project leverages the powers of 11ty and Vite for enhanced performance and modularity.
 
-[See Demo](https://floema-vite.vercel.app/)
+[See Demo](https://floema-jwl.vercel.app/)
 
 ## Main tools
 
