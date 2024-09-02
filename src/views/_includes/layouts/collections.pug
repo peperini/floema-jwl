@@ -15,7 +15,7 @@
       .collections__gallery__wrapper
         each collection, index in prismic.collection
           each product in collection.data.list
-            a.collections__gallery__link(data-index=index href=product.product)
+            a.collections__gallery__link(data-index=index href='#')
               figure.collections__gallery__media(data-index=index)
                 img.collections__gallery__media__image(
                   alt=product.product.data.image.alt
@@ -75,7 +75,7 @@
                   span.detail__information__item__description=item.informations_description
 
             footer.detail__information__footer
-              a.detail__information__link(data-animation="link" href=product.data.link_url.url target="_blank")
+              a.detail__information__link(data-animation="link" href='#' target="_blank")
                 span=product.data.link_text
 
       button.detail__button(data-animation="button")
