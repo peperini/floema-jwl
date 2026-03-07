@@ -2,7 +2,7 @@
 
 Floema is an interactive web experience project inspired by the work of Luis Bizarro, award wining developer. This project leverages the powers of 11ty and Vite for enhanced performance and modularity.
 
-[See Demo](https://floema-jwl.vercel.app/)
+[See Live](https://floema-jwl.vercel.app/)
 
 ## Main tools
 
@@ -62,3 +62,7 @@ PRISMIC_ACCESS_TOKEN=
 ```
 
 Ensure these are properly set to connect with Prismic services.
+
+### Author
+
+José Félix, Creative Technologist & Design Engineer
